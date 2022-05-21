@@ -65,4 +65,15 @@ BMI = weight/(height*height)
 print(BMI)
 
 #Latihan 9
+print("Latihan No 9==")
+
+kilopascal = int(input("Masukkan Datanya = "))
+
+rumus_psi = kilopascal*0.1450377377
+rumus_mmHg = kilopascal*7.500637554192
+rumus_atm = kilopascal*0.00986923266
+
+print(rumus_psi)
+print(rumus_mmHg)
+print(rumus_atm)
 
